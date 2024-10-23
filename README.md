@@ -1,6 +1,6 @@
 This project uses BERT (bert-large-uncased) for Natural Language Processing (NLP) to classify disaster-related tweets. The model processes tweets and predicts whether they are about a real disaster or not. This is achieved by fine-tuning the pre-trained BERT model on the "Real or Not? NLP with Disaster Tweets" dataset(from Kaggle).
 
-Key Steps:
+#Key Steps:
 Preprocess the text data (tokenization, removing special characters, emails, and HTML tags).
 Fine-tune BERT for text classification.
 Train the model and make predictions.
